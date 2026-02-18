@@ -11,7 +11,7 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EssentialYHW&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=EssentialYHW&show_icons=true&theme=radical" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EssentialYHW&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EssentialYHW&layout=compact&theme=radical" />
 </div>
