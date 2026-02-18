@@ -7,11 +7,9 @@
   <p>될대로 사는 평범한 사람</p>
 </div>
 
-
-
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Essential_YHW&show_icons=true&theme=radical" alt="EssentialYHW's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Essential_YHW&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EssentialYHW&show_icons=true&theme=radical&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EssentialYHW&layout=compact&theme=radical&hide_border=true" />
 </div>
-
