@@ -4,7 +4,7 @@
 
 <div align="center">
   <h2>👋 Hello, I'm EssentialYHW!</h2>
-  <p>될 대로 사는 평범한 사람</p>
+  <p>평범한 대학생</p>
 </div>
 
 <br/>
