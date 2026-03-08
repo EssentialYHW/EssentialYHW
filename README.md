@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h2>👋 Hello, I'm EssentialYHW!</h2>
+  <h2>👋 Hello, I'm EssentialYHW</h2>
   <p>평범한 대학생</p>
 </div>
 
